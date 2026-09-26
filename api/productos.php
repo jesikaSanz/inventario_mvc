@@ -114,3 +114,6 @@ case "DELETE":
     }
 
 break;
+GET
+
+http://localhost/inventario_mvc/reportes/excel.php

@@ -14,3 +14,13 @@
 </tr>
 <?php endwhile; ?>
 </table>
+../../reportes/excel.php
+
+    Exportar Excel
+
+</a>
+../../reportes/pdf.php
+
+    Exportar PDF
+
+</a>
